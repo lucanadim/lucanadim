@@ -1,4 +1,7 @@
 ## Hi there 👋
+Im Luca Nadim
+I am a 15 Years old
+an i am Learning some cool Programing Languages like HTML, CSS ore Python. <br> I am olso trying some nice frameworks out like Tailwind CSS. <br> And i am olso begin working with cursor.ai but i am focusing on learning myself and not to just use ai.
 
 <!--
 **lucanadim/lucanadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
