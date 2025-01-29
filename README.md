@@ -1,5 +1,4 @@
-## Hi there 👋
-Im Luca Nadim,
+# Luca Nadim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 I am a 15 Years old student.
 and i am Learning some cool Programing Languages like HTML, CSS ore Python. <br> I am olso trying some nice frameworks like Tailwind CSS. <br> And i am olso begin working with cursor.ai but i am focusing on learning myself and not to just use ai.
 
