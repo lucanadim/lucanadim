@@ -1,8 +1,8 @@
 # Luca Nadim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 I am a 15 Years old student.
-and i am Learning some cool Programing Languages like HTML, CSS ore Python.
+and i am learning some cool Programing Languages like HTML, CSS ore Python.
 <br> I am also trying some nice frameworks like Tailwind CSS.
-<br> And i am also begin working with cursor.ai but i am focusing on learning myself and not to just use ai.
+<br> And i am also begin working with cursor.ai but i am focusing on learning by myself and not to just use ai.
 
 <!--
 **lucanadim/lucanadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
